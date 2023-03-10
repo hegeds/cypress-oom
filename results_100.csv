@@ -1,0 +1,66 @@
+Starting profiler for
+PID of cypress renderer: 66726
+time, pid, mem, command
+14:57:18, 66726, 138M, Cypress Helper (
+14:57:24, 66726, 161M, Cypress Helper (
+Starting profiler for
+PID of cypress renderer: 69244
+time, pid, mem, command
+14:58:02, 69244, 117M, Cypress Helper (
+14:58:08, 69244, 136M, Cypress Helper (
+14:58:14, 69244, 155M, Cypress Helper (
+14:58:20, 69244, 155M, Cypress Helper (
+14:58:26, 69244, 156M, Cypress Helper (
+14:58:32, 69244, 158M, Cypress Helper (
+14:58:38, 69244, 159M, Cypress Helper (
+14:58:44, 69244, 160M, Cypress Helper (
+14:58:50, 69244, 163M, Cypress Helper (
+14:58:56, 69244, 167M, Cypress Helper (
+14:59:02, 69244, 171M, Cypress Helper (
+14:59:08, 69244, 173M, Cypress Helper (
+14:59:15, 69244, 179M, Cypress Helper (
+14:59:21, 69244, 185M, Cypress Helper (
+14:59:27, 69244, 186M, Cypress Helper (
+14:59:33, 69244, 190M, Cypress Helper (
+14:59:39, 69244, 194M, Cypress Helper (
+14:59:45, 69244, 214M, Cypress Helper (
+14:59:51, 69244, 212M, Cypress Helper (
+14:59:57, 69244, 218M, Cypress Helper (
+15:00:03, 69244, 191M, Cypress Helper (
+15:00:09, 69244, 200M, Cypress Helper (
+15:00:16, 69244, 192M, Cypress Helper (
+15:00:22, 69244, 192M, Cypress Helper (
+15:00:28, 69244, 193M, Cypress Helper (
+15:00:34, 69244, 203M, Cypress Helper (
+15:00:40, 69244, 196M, Cypress Helper (
+15:00:46, 69244, 198M, Cypress Helper (
+15:00:52, 69244, 199M, Cypress Helper (
+15:00:58, 69244, 211M, Cypress Helper (
+15:01:04, 69244, 203M, Cypress Helper (
+15:01:10, 69244, 205M, Cypress Helper (
+15:01:16, 69244, 211M, Cypress Helper (
+15:01:22, 69244, 229M, Cypress Helper (
+15:01:29, 69244, 243M, Cypress Helper (
+15:01:35, 69244, 237M, Cypress Helper (
+15:01:41, 69244, 245M, Cypress Helper (
+15:01:47, 69244, 253M, Cypress Helper (
+15:01:53, 69244, 255M, Cypress Helper (
+15:01:59, 69244, 181M, Cypress Helper (
+15:02:05, 69244, 183M, Cypress Helper (
+15:02:11, 69244, 185M, Cypress Helper (
+15:02:17, 69244, 187M, Cypress Helper (
+15:02:23, 69244, 187M, Cypress Helper (
+15:02:29, 69244, 189M, Cypress Helper (
+15:02:36, 69244, 189M, Cypress Helper (
+15:02:42, 69244, 191M, Cypress Helper (
+15:02:48, 69244, 192M, Cypress Helper (
+15:02:54, 69244, 193M, Cypress Helper (
+15:03:00, 69244, 194M, Cypress Helper (
+15:03:06, 69244, 206M, Cypress Helper (
+15:03:12, 69244, 209M, Cypress Helper (
+15:03:18, 69244, 211M, Cypress Helper (
+15:03:24, 69244, 228M, Cypress Helper (
+15:03:30, 69244, 230M, Cypress Helper (
+15:03:36, 69244, ,
+15:03:42, 69244, ,
+15:03:49, 69244, ,
